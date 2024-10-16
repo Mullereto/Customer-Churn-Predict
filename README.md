@@ -26,11 +26,16 @@ Training a predictive model
 Predicting churn for new customers based on their characteristics
 
 ## Features
+
 **1.Data Visualization**: *Explore churn data with various plots, including distribution and correlation analysis.*
+
 **2.Train Model**: *Train a Sequential Neural Network to predict churn with options for:*
+
 **- Regular model training 
   - K-Fold Cross-Validation**
+
 **3.Predict Churn**: *Predict whether a new customer will churn based on their input features.*
+
 **4.Model** *Evaluation: Visualize model performance through accuracy, loss, and classification reports.*
 
 ## Installation
